@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hjfisher02
+# Hi there! 👋 I'm svrfish
 
 Welcome to my GitHub profile! I'm passionate about coding and building interesting projects.
 
@@ -12,7 +12,7 @@ Here are some technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Hjfisher02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hjfisher02&show_icons=true&theme=default)
+![svrfish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hjfisher02&show_icons=true&theme=default)
 
 ## 🌱 Current Focus
 
@@ -22,8 +22,8 @@ Here are some technologies I work with:
 
 ## 📫 How to Reach Me
 
-- GitHub: [@Hjfisher02](https://github.com/Hjfisher02)
+- GitHub: [@svrfish](https://github.com/Hjfisher02)
 
 ---
 
-⭐️ From [Hjfisher02](https://github.com/Hjfisher02)
+⭐️ From [svrfish](https://github.com/Hjfisher02)
