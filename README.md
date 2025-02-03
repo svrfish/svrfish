@@ -12,7 +12,7 @@ Here are some technologies I work with:
 
 ## 📊 GitHub Stats
 
-![svrfish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[svrfish&show_icons=true&theme=default)
+![svrfish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[svrfish&show_icons=true&theme=default])
 
 ## 🌱 Current Focus
 
